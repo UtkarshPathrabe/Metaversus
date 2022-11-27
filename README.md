@@ -1,2 +1,4 @@
-# Metaversus
- Modern Next 13 Website With Framer Motion & Tailwind CSS
+Metaversus
+==========
+
+Metaversus website UI created using modern NextJS 13 with Framer Motion and Tailwind CSS.
