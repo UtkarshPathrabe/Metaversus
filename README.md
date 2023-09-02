@@ -3,7 +3,7 @@ Metaversus
 
 [Live Website](https://utkarsh-metaversus.netlify.app/)  
 
-Metaversus website UI created using modern NextJS 13 with Framer Motion and Tailwind CSS.  
+Explore the future with the Metaversus website UI, meticulously crafted using cutting-edge technologies. Powered by NextJS 13, this modern web interface ensures blazing-fast performance and a seamless user experience. Framer Motion adds a touch of elegance and interactivity to the design, making it visually engaging and dynamic. Tailwind CSS streamlines styling, ensuring consistency and responsiveness across devices. This UI is a glimpse into the possibilities of the metaverse, offering a glimpse into the future of web development. Dive into a world of innovation and discover what's possible with the Metaversus website UI.    
 
 ![Cover Page](/assets/main-page.png)
 
